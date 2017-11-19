@@ -1138,7 +1138,7 @@ fieldset[disabled] .s-btn {
 ------------------------------ */
 .s-header__container {
   width: 100%;
-  height: auto;
+  height: 50px;
   display: table;
   padding: .75rem 1.875rem;
 }
@@ -1177,7 +1177,7 @@ fieldset[disabled] .s-btn {
   position: relative;
   z-index: 9999;
   width: 100%;
-  height: auto;
+  height: 50px;
   float: left;
 }
 
@@ -1247,12 +1247,14 @@ fieldset[disabled] .s-btn {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
+
+
 .s-header__trigger-icon:before, .s-header__trigger-icon:after {
   position: absolute;
   top: 0;
   width: 100%;
   height: 100%;
-  background: inherit;
+  background: #fff;
   content: " ";
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
@@ -1277,7 +1279,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__trigger--dark .s-header__trigger-icon {
-  background: #222324;
+  background: #fff;
 }
 
 .s-header__trigger svg {
@@ -1613,7 +1615,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__shrink .s-header__navbar {
-  background: transparent;
+  background: rgba(0,0,0,.9);
 }
 
 .s-header__shrink .s-header__logo-img-default {
@@ -1630,7 +1632,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__shrink .s-header__trigger-icon {
-  background: #222324;
+  background: #fff;
 }
 
 /*----------------------------------

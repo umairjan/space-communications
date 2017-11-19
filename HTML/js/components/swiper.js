@@ -4,7 +4,7 @@ $(window).load(function(){
     nextButton: '.js__swiper-btn--next',
     prevButton: '.js__swiper-btn--prev',
     speed: 1000,
-    autoplay: 7000,
+    autoplay: 3000,
     loop: true
   });
 
@@ -13,7 +13,7 @@ $(window).load(function(){
     pagination: '.js__swiper-pagination',
     paginationClickable: true,
     speed: 1000,
-    autoplay: 7000,
+    autoplay: 3000,
     loop: true
   });
 
