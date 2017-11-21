@@ -1,6 +1,6 @@
-Author: 		KeenThemes
-Website: 		http://www.keenthemes.com/
-Contact: 		support@keenthemes.com
+Author: 		IAC Software Solutions
+Website: 		http://www.iacsoftwaresolutions.com/
+Contact: 		
 Follow: 		http://twitter.com/keenthemes
 Like: 			http://facebook.com/keenthemes
 
